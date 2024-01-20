@@ -1,6 +1,7 @@
 # Login Screen Using bloc✨
 This app to demostrate my skills in bloc patter state management flutter.
 
+![Green and Cream Modern Sales Marketing Presentation](https://github.com/Prachip9767/trading_app_dashboard/assets/86509987/700114a0-8dc6-49dd-a62c-0e4ce97d6b55)
 
 
 # Click On Demo✨
